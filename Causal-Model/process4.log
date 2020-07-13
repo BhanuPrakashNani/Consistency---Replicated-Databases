@@ -1,0 +1,159 @@
+P4: Entry Read id: 5
+P4: Exit Read id: 5 Percent: 0 Clock: 0
+P4: Synch start 0
+P4: Entry name: Process 2 : Write id: 0 Percent: 1
+P4: Exit name: Process 2 : Write id: 0 Percent: 1 Clock: 0
+P4: UPdate from Process 2 for id: 0 percent: 1
+P4: Entry name: Process 3 : Write id: 0 Percent: 1
+P4: Exit name: Process 3 : Write id: 0 Percent: 1 Clock: 0
+P4: UPdate from Process 3 for id: 0 percent: 1
+P4: Entry name: Process 3 : Write id: 1 Percent: 1
+P4: Exit name: Process 3 : Write id: 1 Percent: 1 Clock: 1
+P4: UPdate from Process 3 for id: 1 percent: 1
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 1 : Write id: 1 Percent: 1
+P4: Exit name: Process 1 : Write id: 1 Percent: 1 Clock: 1
+P4: UPdate from Process 1 for id: 1 percent: 1
+P4: Entry name: Process 5 : Write id: 1 Percent: 1
+P4: Exit name: Process 5 : Write id: 1 Percent: 1 Clock: 1
+P4: UPdate from Process 5 for id: 1 percent: 1
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 2 : Write id: 2 Percent: 1
+P4: Exit name: Process 2 : Write id: 2 Percent: 1 Clock: 2
+P4: UPdate from Process 2 for id: 2 percent: 1
+P4: Entry name: Process 1 : Write id: 2 Percent: 1
+P4: Exit name: Process 1 : Write id: 2 Percent: 1 Clock: 2
+P4: UPdate from Process 1 for id: 2 percent: 1
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 1 : Write id: 3 Percent: 1
+P4: Exit name: Process 1 : Write id: 3 Percent: 1 Clock: 3
+P4: UPdate from Process 1 for id: 3 percent: 1
+P4: Synch end 0
+P4: Entry Read id: 2
+P4: Exit Read id: 2 Percent: 1 Clock: 2
+P4: Synch start 0
+P4: Entry name: Process 1 : Write id: 4 Percent: 1
+P4: Exit name: Process 1 : Write id: 4 Percent: 1 Clock: 4
+P4: UPdate from Process 1 for id: 4 percent: 1
+P4: Entry name: Process 2 : Write id: 5 Percent: 1
+P4: Exit name: Process 2 : Write id: 5 Percent: 1 Clock: 5
+P4: UPdate from Process 2 for id: 5 percent: 1
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 5 : Write id: 5 Percent: 1
+P4: Exit name: Process 5 : Write id: 5 Percent: 1 Clock: 5
+P4: UPdate from Process 5 for id: 5 percent: 1
+P4: Entry name: Process 1 : Write id: 6 Percent: 1
+P4: Exit name: Process 1 : Write id: 6 Percent: 1 Clock: 6
+P4: UPdate from Process 1 for id: 6 percent: 1
+P4: Entry name: Process 2 : Write id: 0 Percent: 207
+P4: Exit name: Process 2 : Write id: 0 Percent: 207 Clock: 7
+P4: UPdate from Process 2 for id: 0 percent: 207
+P4: Synch end 0
+P4: Entry Read id: 5
+P4: Exit Read id: 5 Percent: 1 Clock: 5
+P4: Entry Read id: 5
+P4: Exit Read id: 5 Percent: 1 Clock: 5
+P4: Entry Read id: 1
+P4: Exit Read id: 1 Percent: 1 Clock: 1
+P4: Synch start 0
+P4: Entry name: Process 5 : Write id: 0 Percent: 507
+P4: Exit name: Process 5 : Write id: 0 Percent: 507 Clock: 7
+P4: UPdate from Process 5 for id: 0 percent: 507
+P4: Entry name: Process 1 : Write id: 0 Percent: 107
+P4: Exit name: Process 1 : Write id: 0 Percent: 107 Clock: 7
+P4: UPdate from Process 1 for id: 0 percent: 107
+P4: Entry name: Process 3 : Write id: 1 Percent: 308
+P4: Exit name: Process 3 : Write id: 1 Percent: 308 Clock: 8
+P4: UPdate from Process 3 for id: 1 percent: 308
+P4: Entry name: Process 2 : Write id: 1 Percent: 208
+P4: Exit name: Process 2 : Write id: 1 Percent: 208 Clock: 8
+P4: UPdate from Process 2 for id: 1 percent: 208
+P4: Entry name: Process 5 : Write id: 1 Percent: 508
+P4: Exit name: Process 5 : Write id: 1 Percent: 508 Clock: 8
+P4: UPdate from Process 5 for id: 1 percent: 508
+P4: Entry name: Process 1 : Write id: 1 Percent: 108
+P4: Exit name: Process 1 : Write id: 1 Percent: 108 Clock: 8
+P4: UPdate from Process 1 for id: 1 percent: 108
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 2 : Write id: 2 Percent: 209
+P4: Exit name: Process 2 : Write id: 2 Percent: 209 Clock: 9
+P4: UPdate from Process 2 for id: 2 percent: 209
+P4: Entry name: Process 5 : Write id: 2 Percent: 509
+P4: Exit name: Process 5 : Write id: 2 Percent: 509 Clock: 9
+P4: UPdate from Process 5 for id: 2 percent: 509
+P4: Entry name: Process 1 : Write id: 2 Percent: 109
+P4: Exit name: Process 1 : Write id: 2 Percent: 109 Clock: 9
+P4: UPdate from Process 1 for id: 2 percent: 109
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 3 : Write id: 3 Percent: 310
+P4: Exit name: Process 3 : Write id: 3 Percent: 310 Clock: 10
+P4: UPdate from Process 3 for id: 3 percent: 310
+P4: Entry name: Process 5 : Write id: 4 Percent: 511
+P4: Exit name: Process 5 : Write id: 4 Percent: 511 Clock: 11
+P4: UPdate from Process 5 for id: 4 percent: 511
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 1 : Write id: 6 Percent: 109
+P4: Exit name: Process 1 : Write id: 6 Percent: 109 Clock: 13
+P4: UPdate from Process 1 for id: 6 percent: 109
+P4: Entry name: Process 5 : Write id: 0 Percent: 514
+P4: Exit name: Process 5 : Write id: 0 Percent: 514 Clock: 14
+P4: UPdate from Process 5 for id: 0 percent: 514
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 1 : Write id: 0 Percent: 114
+P4: Exit name: Process 1 : Write id: 0 Percent: 114 Clock: 14
+P4: UPdate from Process 1 for id: 0 percent: 114
+P4: Entry name: Process 3 : Write id: 1 Percent: 315
+P4: Exit name: Process 3 : Write id: 1 Percent: 315 Clock: 15
+P4: UPdate from Process 3 for id: 1 percent: 315
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 5 : Write id: 1 Percent: 515
+P4: Exit name: Process 5 : Write id: 1 Percent: 515 Clock: 15
+P4: UPdate from Process 5 for id: 1 percent: 515
+P4: Entry name: Process 2 : Write id: 2 Percent: 216
+P4: Exit name: Process 2 : Write id: 2 Percent: 216 Clock: 16
+P4: UPdate from Process 2 for id: 2 percent: 216
+P4: Entry name: Process 5 : Write id: 2 Percent: 516
+P4: Exit name: Process 5 : Write id: 2 Percent: 516 Clock: 16
+P4: UPdate from Process 5 for id: 2 percent: 516
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 1 : Write id: 2 Percent: 116
+P4: Exit name: Process 1 : Write id: 2 Percent: 116 Clock: 16
+P4: UPdate from Process 1 for id: 2 percent: 116
+P4: Entry name: Process 2 : Write id: 3 Percent: 217
+P4: Exit name: Process 2 : Write id: 3 Percent: 217 Clock: 17
+P4: UPdate from Process 2 for id: 3 percent: 217
+P4: Entry name: Process 3 : Write id: 4 Percent: 318
+P4: Exit name: Process 3 : Write id: 4 Percent: 318 Clock: 18
+P4: UPdate from Process 3 for id: 4 percent: 318
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 2 : Write id: 4 Percent: 218
+P4: Exit name: Process 2 : Write id: 4 Percent: 218 Clock: 18
+P4: UPdate from Process 2 for id: 4 percent: 218
+P4: Entry name: Process 1 : Write id: 3 Percent: 117
+P4: Exit name: Process 1 : Write id: 3 Percent: 117 Clock: 17
+P4: UPdate from Process 1 for id: 3 percent: 117
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 2 : Write id: 5 Percent: 219
+P4: Exit name: Process 2 : Write id: 5 Percent: 219 Clock: 19
+P4: UPdate from Process 2 for id: 5 percent: 219
+P4: Entry name: Process 5 : Write id: 5 Percent: 519
+P4: Exit name: Process 5 : Write id: 5 Percent: 519 Clock: 19
+P4: UPdate from Process 5 for id: 5 percent: 519
+P4: Synch end 0
+P4: Synch start 0
+P4: Entry name: Process 3 : Write id: 6 Percent: 320
+P4: Exit name: Process 3 : Write id: 6 Percent: 320 Clock: 20
+P4: UPdate from Process 3 for id: 6 percent: 320
+P4: Synch end 0

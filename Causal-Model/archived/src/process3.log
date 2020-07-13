@@ -1,0 +1,6591 @@
+P3: Entry read id: 1
+P3: Exit read id: 1 nothing to read
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: Entry read id: 2
+P3: Exit read id: 2 nothing to read
+P3: Entry read id: 5
+P3: Exit read id: 5 nothing to read
+P3: Entry read id: 6
+P3: Exit read id: 6 nothing to read
+P3: sync starts
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','abhinav','cse','1','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','bhanu','cse','1','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','Mani','cse','1','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','shrestha','cse','1','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','abhinav','cse','2','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','bhanu','cse','2','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','abhinav','cse','3','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','shrestha','cse','2','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','Mani','cse','2','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','abhinav','cse','4','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','Mani','cse','3','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','shrestha','cse','3','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','bhanu','cse','3','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','abhinav','cse','5','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','shrestha','cse','4','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','bhanu','cse','4','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','Mani','cse','4','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','abhinav','cse','6','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','shrestha','cse','5','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','bhanu','cse','5','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','Mani','cse','5','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','bhanu','cse','6','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','abhinav','cse','7','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','Mani','cse','6','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','shrestha','cse','6','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','bhanu','cse','7','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','abhinav','cse','8','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','shrestha','cse','7','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','bhanu','cse','8','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','Mani','cse','7','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','abhinav','cse','9','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','Mani','cse','8','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','shrestha','cse','8','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','bhanu','cse','9','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','abhinav','cse','10','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 1 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','shrestha','cse','9','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','bhanu','cse','10','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','Mani','cse','9','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','shrestha','cse','10','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','Mani','cse','10','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 7 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 6 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 6 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 4 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 1 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 2 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 5 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 7 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 8 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 8 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 11 name: abhinav
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 4 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 6 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: Entry read id: 5
+P3: Exit read id: 5 nothing to read
+P3: Entry read id: 4
+P3: Exit read id: 4 nothing to read
+P3: Entry read id: 3
+P3: Exit read id: 3 nothing to read
+P3: Entry read id: 3
+P3: Exit read id: 3 nothing to read
+P3: Entry read id: 4
+P3: Exit read id: 4 nothing to read
+P3: Entry read id: 9
+P3: Exit read id: 9 nothing to read
+P3: Entry read id: 1
+P3: Exit read id: 1 nothing to read
+P3: Entry read id: 8
+P3: Exit read id: 8 nothing to read
+P3: Entry read id: 6
+P3: Exit read id: 6 nothing to read
+P3: sync starts
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','abhinav','cse','1','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','bhanu','cse','1','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','Mani','cse','1','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','abhinav','cse','2','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','shrestha','cse','1','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','bhanu','cse','2','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','Mani','cse','2','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','abhinav','cse','3','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','shrestha','cse','2','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','bhanu','cse','3','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','Mani','cse','3','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','abhinav','cse','4','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','shrestha','cse','3','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','bhanu','cse','4','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','Mani','cse','4','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','Mani','cse','5','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','abhinav','cse','5','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','bhanu','cse','5','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','Mani','cse','6','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','abhinav','cse','6','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','shrestha','cse','4','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','bhanu','cse','6','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','Mani','cse','7','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','abhinav','cse','7','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','shrestha','cse','5','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','bhanu','cse','7','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','Mani','cse','8','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','abhinav','cse','8','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','shrestha','cse','6','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','bhanu','cse','8','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','shrestha','cse','7','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','Mani','cse','9','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','abhinav','cse','9','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','shrestha','cse','8','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','bhanu','cse','9','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','Mani','cse','10','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','shrestha','cse','9','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','bhanu','cse','10','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','abhinav','cse','10','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 8 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 3 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 0 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','shrestha','cse','10','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 5 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 2 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 6 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 3 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 1 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 3 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 3 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 7 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 6 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 6 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 1 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 1 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 10 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 0 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 9 name: abhinav
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: abhinav
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 3 name: abhinav
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 4 name: shrestha
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 9 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 9 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 6 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 4 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 0 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 0 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 3 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 7 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 5 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 5 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 7 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 4 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 0 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 9 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 3 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 9 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 1 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 8 name: bhanu
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 4 name: bhanu
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: Mani
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 8 name: bhanu
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 17 name: shrestha
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 17 name: abhinav
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 2 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 5 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 5 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 9 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 5 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 13 name: bhanu
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 8 name: Mani
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 11 name: shrestha
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 20 name: Mani
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: abhinav
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 13 name: bhanu
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 14 name: shrestha
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: shrestha
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: Mani
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 13 name: bhanu
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 9 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 7 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 1 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 22 where sno = 8 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 22 where sno = 0 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 1 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 22 where sno = 0 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 23 where sno = 2 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 23 where sno = 4 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 24 where sno = 8 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 10 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 24 where sno = 1 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 25 where sno = 7 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 26 where sno = 6 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 22 where sno = 2 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 25 where sno = 7 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 27 where sno = 2 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 23 where sno = 5 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 26 where sno = 3 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 28 where sno = 8 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 24 where sno = 1 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 27 where sno = 4 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 29 where sno = 1 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 25 where sno = 8 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 28 where sno = 7 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 26 where sno = 7 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 24 name: shrestha
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 29 where sno = 9 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 20 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 6 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 17 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 24 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 6 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 24 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 24 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 18 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 17 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 17 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 7 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 21 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 20 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 21 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 18 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 4 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 22 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 3 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 4 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 26 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 20 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 3 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 6 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 18 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 24 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 21 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 4 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 26 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 17 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 1 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 17 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 26 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 20 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 4 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 24 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 6 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 18 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 3 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 24 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 1 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 26 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 17 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 22 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 21 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 29 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 17 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 26 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 20 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 4 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 24 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 24 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 21 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 17 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 18 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 29 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: sync starts
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','abhinav','cse','1','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','bhanu','cse','1','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','Mani','cse','1','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','shrestha','cse','1','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','abhinav','cse','2','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','bhanu','cse','2','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','Mani','cse','2','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','abhinav','cse','3','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','shrestha','cse','2','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','bhanu','cse','3','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','Mani','cse','3','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','abhinav','cse','4','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','shrestha','cse','3','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','bhanu','cse','4','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','Mani','cse','4','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','abhinav','cse','5','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','shrestha','cse','4','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','Mani','cse','5','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','bhanu','cse','5','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','abhinav','cse','6','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','shrestha','cse','5','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','bhanu','cse','6','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','Mani','cse','6','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','abhinav','cse','7','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','shrestha','cse','6','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','bhanu','cse','7','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','Mani','cse','7','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','bhanu','cse','8','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','Mani','cse','8','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','abhinav','cse','8','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','shrestha','cse','7','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','bhanu','cse','9','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','Mani','cse','9','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','abhinav','cse','9','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','bhanu','cse','10','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','Mani','cse','10','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','abhinav','cse','10','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','shrestha','cse','8','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 4 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 6 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','shrestha','cse','9','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 0 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: abhinav
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 5 name: abhinav
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 18 name: Mani
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 24 name: shrestha
+P3: sync starts
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','shrestha','cse','10','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 4 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 7 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 6 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 0 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 5 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 5 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 17 name: shrestha
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 29 name: abhinav
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: abhinav
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 1 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 5 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 7 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 4 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 2 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 8 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 7 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 2 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 2 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 0 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 5 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 6 name: Mani
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 24 name: shrestha
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 15 name: bhanu
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 17 name: Mani
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 6 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 4 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 3 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 2 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 5 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 11 name: bhanu
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 3 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 8 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 5 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 14 name: shrestha
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 18 name: Mani
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 1 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 0 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 0 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 0 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 9 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 9 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 14 name: shrestha
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 6 name: Mani
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 0 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 5 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 2 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 9 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 3 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 3 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 7 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 22 where sno = 2 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 0 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 22 where sno = 6 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 3 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 23 where sno = 3 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 0 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 24 where sno = 0 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 16 name: shrestha
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 22 where sno = 4 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 25 where sno = 1 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 23 where sno = 5 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 26 where sno = 3 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 24 where sno = 9 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 27 where sno = 2 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 18 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 25 where sno = 7 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 28 where sno = 3 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 26 where sno = 7 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 6 name: Mani
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 27 where sno = 9 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 21 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 28 where sno = 9 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 6 name: Mani
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 29 where sno = 5 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 30 where sno = 6 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 31 where sno = 2 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 32 where sno = 5 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 33 where sno = 1 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 13 name: shrestha
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 34 where sno = 1 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 35 where sno = 2 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 27 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 27 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 27 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 33 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 27 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 31 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 32 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 19 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 35 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 22 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 27 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: sync starts
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','abhinav','cse','1','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','bhanu','cse','1','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','Mani','cse','1','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('1','shrestha','cse','1','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','abhinav','cse','2','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','bhanu','cse','2','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','Mani','cse','2','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','abhinav','cse','3','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('2','shrestha','cse','2','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','bhanu','cse','3','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','Mani','cse','3','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','abhinav','cse','4','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('3','shrestha','cse','3','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','bhanu','cse','4','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','Mani','cse','4','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','abhinav','cse','5','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('4','shrestha','cse','4','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','bhanu','cse','5','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','Mani','cse','5','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','abhinav','cse','6','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('5','shrestha','cse','5','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','bhanu','cse','6','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','Mani','cse','6','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','abhinav','cse','7','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','bhanu','cse','7','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','Mani','cse','7','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','abhinav','cse','8','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('6','shrestha','cse','6','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','bhanu','cse','8','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('7','shrestha','cse','7','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','bhanu','cse','9','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','Mani','cse','8','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','abhinav','cse','9','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('8','shrestha','cse','8','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','bhanu','cse','10','bhan.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','abhinav','cse','10','abhi.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','shrestha','cse','9','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('9','Mani','cse','9','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 3 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 9 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','shrestha','cse','10','shre.gmail')
+P3: Exit write
+P3: Entry write
+P3: INSERT INTO samplermi(sno, name, branch, percentage, email) values('10','Mani','cse','10','mani.gmail')
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 8 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 2 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 9 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 11 where sno = 6 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 21 name: Mani
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 30 name: Mani
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 12 name: shrestha
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 13 name: shrestha
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 12 name: shrestha
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 34 name: Mani
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 12 name: abhinav
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 12 name: abhinav
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 6 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 6 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 13 name: shrestha
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 11 name: shrestha
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 26 name: bhanu
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 11 name: abhinav
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 28 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 12 where sno = 4 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 1 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 1 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 7 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 2 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 0 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 13 where sno = 4 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 8 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 9 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 10 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 3 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 25 name: Mani
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 16 name: abhinav
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 14 where sno = 7 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 1 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 6 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 5 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 18 name: abhinav
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 25 name: Mani
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 15 where sno = 8 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 9 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 7 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 9 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 16 where sno = 5 and name = "shrestha" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 7 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 6 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 17 where sno = 6 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 9 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 1 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 4 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 7 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 18 where sno = 0 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 3 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 6 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 20 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 19 where sno = 8 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 15 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 18 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 13 name: Mani
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 8 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 20 where sno = 0 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 6 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 7 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 21 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 17 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 21 where sno = 9 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 22 where sno = 9 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 22 where sno = 9 and name = "abhinav" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 23 where sno = 3 and name = "mani" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 22 where sno = 8 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 23 where sno = 6 and name = "bhanu" ;
+P3: Exit write
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 23 where sno = 0 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 26 name: shrestha
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 24 where sno = 6 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 24 where sno = 9 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 25 where sno = 3 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 25 where sno = 0 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 26 where sno = 5 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 26 where sno = 0 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 18 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 27 where sno = 6 and name = "mani" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: abhinav
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 28 where sno = 7 and name = "bhanu" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 16 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 29 where sno = 3 and name = "shrestha" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: Entry write
+P3: UPDATE samplermi SET percentage = 30 where sno = 2 and name = "abhinav" ;
+P3: Exit write
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 13 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 25 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 24 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 24 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 13 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 13 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 24 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 13 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 24 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 24 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 25 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 17 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 24 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 24 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 17 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 24 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 13 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 24 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 24 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 24 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 24 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 25 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 25 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 24 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 17 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 13 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 29 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 13 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 13 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 25 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 24 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 13 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 24 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 17 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 2 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 14 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 24 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 28 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 26 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 25 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 16 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 17 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 22 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 24 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 14 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 25 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 20 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 24 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 25 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 18 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 17 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 9
+P3: Exit read id: 9 percent: 19 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 25 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 17 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 13 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 12 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 22 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 8
+P3: Exit read id: 8 percent: 15 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 11 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 19 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 13 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 13 name: shrestha
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 16 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 1
+P3: Exit read id: 1 percent: 20 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 10 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 12 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 7
+P3: Exit read id: 7 percent: 21 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 6
+P3: Exit read id: 6 percent: 24 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 5
+P3: Exit read id: 5 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 4
+P3: Exit read id: 4 percent: 27 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 10
+P3: Exit read id: 10 percent: 14 name: bhanu
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 3
+P3: Exit read id: 3 percent: 23 name: Mani
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 0
+P3: Exit read id: 0 nothing to read
+P3: sync starts
+P3: sync ends
+P3: Entry read id: 2
+P3: Exit read id: 2 percent: 30 name: abhinav

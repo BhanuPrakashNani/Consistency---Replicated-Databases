@@ -1,0 +1,1723 @@
+
+P3: Entry Read id: 1
+P3: Exit Read id: 1 Percent: 0 Clock: 0
+P2: Entry Read id: 1
+P1: Entry Read id: 0
+P2: Exit Read id: 1 Percent: 0 Clock: 0
+P1: Exit Read id: 0 Percent: 0 Clock: 0
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 0 Clock: 0
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 0 Clock: 0
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 0 Clock: 0
+P3: Entry Read id: 3
+P3: Exit Read id: 3 Percent: 0 Clock: 0
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 0 Clock: 0
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 0 Clock: 0
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 0 Clock: 0
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 0 Clock: 0
+P1: Synch start 1
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 1
+P2: Entry Read id: 4
+P2: Exit Read id: 4 Percent: 0 Clock: 0
+P2: Synch start 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 1 for id: 0 percent: 1
+P2: Synch end 1
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 0 Clock: 0
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 0 Clock: 0
+P3: Entry Read id: 6
+P3: Exit Read id: 6 Percent: 0 Clock: 0
+P4: Synch start 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 1 for id: 0 percent: 1
+P4: Synch end 1
+P1: Synch start 2
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 4
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 2
+P3: Synch start 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 1
+P1: Synch start 4
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 1
+UPdate from Process 5 for id: 0 percent: 1
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 5
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 4
+P5: Synch start 3
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 4
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 1
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 3
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 5
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 5
+P1: Synch start 4
+P1: Synch end 4
+P3: Entry Read id: 5
+P3: Exit Read id: 5 Percent: 0 Clock: 0
+P3: Synch start 3
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 4
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 1
+UPdate from Process 5 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 5
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 3
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 5
+P1: Entry Read id: 0
+P2: Entry Read id: 4
+P1: Exit Read id: 0 Percent: 1 Clock: 5
+P2: Exit Read id: 4 Percent: 0 Clock: 0
+P2: Synch start 3
+P1: Synch start 4
+P1: Synch end 4
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 4
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 1
+UPdate from Process 5 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 5
+UPdate from Process 1 for id: 0 percent: 1
+P2: Synch end 3
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 1
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 1
+P5: Synch start 4
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 5
+UPdate from Process 1 for id: 0 percent: 1
+P5: Synch end 4
+P1: Synch start 5
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 8
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 5
+P4: Synch start 6
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 4
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 1
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 5
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 8
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 1
+UPdate from Process 4 for id: 0 percent: 1
+P4: Synch end 6
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 8
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 8
+P3: Entry Read id: 1
+P3: Exit Read id: 1 Percent: 0 Clock: 0
+P1: Synch start 6
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 1
+UPdate from Process 4 for id: 0 percent: 1
+P1: Synch end 6
+P3: Synch start 5
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 8
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 1
+UPdate from Process 4 for id: 0 percent: 1
+P3: Synch end 5
+P1: Synch start 8
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 5 for id: 0 percent: 1
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 10
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 8
+P5: Synch start 7
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 8
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 1
+UPdate from Process 4 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 5 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 10
+UPdate from Process 1 for id: 0 percent: 1
+P5: Synch end 7
+P2: Entry Read id: 6
+P2: Exit Read id: 6 Percent: 0 Clock: 0
+P2: Synch start 6
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 8
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 1
+UPdate from Process 4 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 5 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 10
+UPdate from Process 1 for id: 0 percent: 1
+P2: Synch end 6
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 10
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 10
+P1: Synch start 8
+P1: Synch end 8
+P3: Entry Read id: 2
+P3: Exit Read id: 2 Percent: 0 Clock: 0
+P3: Synch start 6
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 5 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 10
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 6
+P1: Synch start 9
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 9
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 10
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 10
+P5: Synch start 9
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 1 for id: 0 percent: 1
+P5: Synch end 9
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 12
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 12
+P1: Synch start 9
+P1: Synch end 9
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 1
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 1
+P4: Synch start 9
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 10
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 12
+P1: Synch start 10
+UPdate from Process 1 for id: 0 percent: 1
+P1: Entry Write id: 0 Percent: 6
+P4: Entry Write id: 0 Percent: 6
+P1: Exit Write id: 0 Percent: 6 Clock: 14
+P4: Exit Write id: 0 Percent: 6 Clock: 14
+UPdate from Process 1 for id: 0 percent: 6
+UPdate from Process 1 for id: 0 percent: 6
+P1: Synch end 10
+P4: Synch end 9
+P2: Entry Read id: 6
+P2: Exit Read id: 6 Percent: 0 Clock: 0
+P3: Entry Read id: 2
+P3: Exit Read id: 2 Percent: 0 Clock: 0
+P2: Synch start 8
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 6
+P2: Exit Write id: 0 Percent: 6 Clock: 14
+UPdate from Process 1 for id: 0 percent: 6
+P2: Synch end 8
+P3: Synch start 8
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 6
+P3: Exit Write id: 0 Percent: 6 Clock: 14
+UPdate from Process 1 for id: 0 percent: 6
+P3: Synch end 8
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 12
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 12
+P5: Synch start 10
+P5: Entry Write id: 0 Percent: 6
+P5: Exit Write id: 0 Percent: 6 Clock: 14
+UPdate from Process 1 for id: 0 percent: 6
+P5: Synch end 10
+P1: Synch start 11
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 11
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 15
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 15
+P1: Synch start 11
+P1: Synch end 11
+P3: Entry Read id: 1
+P3: Exit Read id: 1 Percent: 0 Clock: 0
+P3: Synch start 9
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 17
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 9
+P1: Synch start 12
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 17
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 12
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 6 Clock: 14
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 6 Clock: 14
+P5: Synch start 12
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 17
+UPdate from Process 1 for id: 0 percent: 1
+P5: Synch end 12
+P2: Entry Read id: 5
+P2: Exit Read id: 5 Percent: 0 Clock: 0
+P1: Entry Read id: 0
+P2: Synch start 10
+P1: Exit Read id: 0 Percent: 1 Clock: 17
+P1: Entry Read id: 0
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 1 for id: 0 percent: 1
+P1: Exit Read id: 0 Percent: 1 Clock: 17
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 17
+UPdate from Process 1 for id: 0 percent: 1
+P2: Synch end 10
+P1: Synch start 12
+P1: Synch end 12
+P4: Synch start 13
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 17
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 4 for id: 0 percent: 1
+P4: Synch end 13
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 17
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 17
+P1: Synch start 13
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 4 for id: 0 percent: 1
+P1: Synch end 13
+P3: Entry Read id: 6
+P3: Exit Read id: 6 Percent: 0 Clock: 0
+P3: Synch start 11
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 4 for id: 0 percent: 1
+P3: Synch end 11
+P5: Synch start 14
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 4 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 7
+P5: Exit Write id: 0 Percent: 7 Clock: 7
+UPdate from Process 5 for id: 0 percent: 7
+P5: Synch end 14
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 3
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 3
+P1: Synch start 14
+P1: Entry Write id: 0 Percent: 7
+P1: Exit Write id: 0 Percent: 7 Clock: 7
+UPdate from Process 5 for id: 0 percent: 7
+P1: Synch end 14
+P1: Synch start 15
+P1: Entry Write id: 0 Percent: 12
+P1: Exit Write id: 0 Percent: 12 Clock: 21
+UPdate from Process 1 for id: 0 percent: 12
+P1: Synch end 15
+P2: Entry Read id: 0
+P2: Exit Read id: 0 Percent: 1 Clock: 17
+P2: Synch start 12
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 3
+UPdate from Process 4 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 7
+P2: Exit Write id: 0 Percent: 7 Clock: 7
+UPdate from Process 5 for id: 0 percent: 7
+P2: Entry Write id: 0 Percent: 12
+P2: Exit Write id: 0 Percent: 12 Clock: 21
+UPdate from Process 1 for id: 0 percent: 12
+P2: Synch end 12
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 12 Clock: 21
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 12 Clock: 21
+P3: Entry Read id: 3
+P3: Exit Read id: 3 Percent: 0 Clock: 0
+P1: Synch start 15
+P1: Synch end 15
+P3: Synch start 12
+P3: Entry Write id: 0 Percent: 7
+P3: Exit Write id: 0 Percent: 7 Clock: 7
+UPdate from Process 5 for id: 0 percent: 7
+P3: Entry Write id: 0 Percent: 12
+P3: Exit Write id: 0 Percent: 12 Clock: 21
+UPdate from Process 1 for id: 0 percent: 12
+P3: Synch end 12
+P5: Synch start 16
+P5: Entry Write id: 0 Percent: 12
+P5: Exit Write id: 0 Percent: 12 Clock: 21
+UPdate from Process 1 for id: 0 percent: 12
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 8
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 16
+P1: Synch start 17
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 8
+UPdate from Process 5 for id: 0 percent: 1
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 23
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 17
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 3
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 3
+P4: Synch start 17
+P4: Entry Write id: 0 Percent: 7
+P4: Exit Write id: 0 Percent: 7 Clock: 7
+UPdate from Process 5 for id: 0 percent: 7
+P4: Entry Write id: 0 Percent: 12
+P4: Exit Write id: 0 Percent: 12 Clock: 21
+UPdate from Process 1 for id: 0 percent: 12
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 8
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 23
+UPdate from Process 1 for id: 0 percent: 1
+P4: Synch end 17
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 23
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 23
+P1: Synch start 17
+P1: Synch end 17
+P3: Entry Read id: 5
+P3: Exit Read id: 5 Percent: 0 Clock: 0
+P3: Synch start 13
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 8
+UPdate from Process 5 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 23
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 13
+P2: Entry Read id: 5
+P2: Exit Read id: 5 Percent: 0 Clock: 0
+P5: Synch start 18
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 23
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 9
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 18
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 23
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 23
+P2: Synch start 13
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 8
+UPdate from Process 5 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 23
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 9
+UPdate from Process 5 for id: 0 percent: 1
+P2: Synch end 13
+P1: Synch start 18
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 9
+UPdate from Process 5 for id: 0 percent: 1
+P1: Synch end 18
+P1: Synch start 19
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 26
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 19
+P1: Synch start 20
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 27
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 20
+P3: Entry Read id: 5
+P3: Exit Read id: 5 Percent: 0 Clock: 0
+P5: Synch start 21
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 26
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 27
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch start 15
+P3: Entry Write id: 0 Percent: 1
+P5: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 9
+P5: Exit Write id: 0 Percent: 1 Clock: 10
+UPdate from Process 5 for id: 0 percent: 1
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 21
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 26
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 27
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 10
+UPdate from Process 5 for id: 0 percent: 1
+P3: Synch end 15
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 27
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 27
+P1: Synch start 21
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 10
+UPdate from Process 5 for id: 0 percent: 1
+P1: Synch end 21
+P2: Entry Read id: 5
+P2: Exit Read id: 5 Percent: 0 Clock: 0
+P2: Synch start 15
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 26
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 27
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 10
+UPdate from Process 5 for id: 0 percent: 1
+P2: Synch end 15
+P4: Synch start 22
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 9
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 26
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 27
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 10
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 5
+UPdate from Process 4 for id: 0 percent: 1
+P4: Synch end 22
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 10
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 10
+P1: Synch start 22
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 5
+UPdate from Process 4 for id: 0 percent: 1
+P1: Synch end 22
+P3: Entry Read id: 3
+P3: Exit Read id: 3 Percent: 0 Clock: 0
+P5: Synch start 23
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 5
+UPdate from Process 4 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 11
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 23
+P3: Synch start 16
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 5
+UPdate from Process 4 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 11
+UPdate from Process 5 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 30
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 16
+P1: Synch start 24
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 11
+UPdate from Process 5 for id: 0 percent: 1
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 30
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 24
+P1: Synch start 25
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 31
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 25
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 31
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 31
+P2: Entry Read id: 5
+P2: Exit Read id: 5 Percent: 0 Clock: 0
+P1: Synch start 25
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 5 for id: 0 percent: 1
+P1: Synch end 25
+P2: Synch start 18
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 5
+UPdate from Process 4 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 11
+UPdate from Process 5 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 30
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 31
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 5 for id: 0 percent: 1
+P2: Synch end 18
+P3: Entry Read id: 1
+P3: Exit Read id: 1 Percent: 0 Clock: 0
+P5: Synch start 26
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 30
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 31
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 26
+P3: Synch start 18
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 31
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 5 for id: 0 percent: 1
+P3: Synch end 18
+P1: Synch start 27
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 33
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 27
+P4: Synch start 28
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 11
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 30
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 31
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 33
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 6
+UPdate from Process 4 for id: 0 percent: 1
+P4: Synch end 28
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 33
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 33
+P1: Synch start 28
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 6
+UPdate from Process 4 for id: 0 percent: 1
+P1: Synch end 28
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 12
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 12
+P5: Synch start 28
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 33
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 6
+UPdate from Process 4 for id: 0 percent: 1
+P5: Synch end 28
+P3: Entry Read id: 0
+P3: Exit Read id: 0 Percent: 1 Clock: 12
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 6
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 6
+P1: Synch start 28
+P1: Synch end 28
+P3: Synch start 20
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 33
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 6
+UPdate from Process 4 for id: 0 percent: 1
+P3: Synch end 20
+P2: Entry Read id: 2
+P2: Exit Read id: 2 Percent: 0 Clock: 0
+P2: Synch start 20
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 33
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 6
+UPdate from Process 4 for id: 0 percent: 1
+P2: Synch end 20
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 6
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 6
+P1: Synch start 28
+P1: Synch end 28
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 6
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 6
+P1: Synch start 28
+P1: Synch end 28
+P5: Synch start 29
+P5: Entry Write id: 0 Percent: 7
+P5: Exit Write id: 0 Percent: 7 Clock: 14
+UPdate from Process 5 for id: 0 percent: 7
+P5: Synch end 29
+P3: Entry Read id: 5
+P3: Exit Read id: 5 Percent: 0 Clock: 0
+P3: Synch start 20
+P3: Entry Write id: 0 Percent: 7
+P3: Exit Write id: 0 Percent: 7 Clock: 14
+UPdate from Process 5 for id: 0 percent: 7
+P3: Synch end 20
+P1: Synch start 30
+P1: Entry Write id: 0 Percent: 7
+P1: Exit Write id: 0 Percent: 7 Clock: 14
+UPdate from Process 5 for id: 0 percent: 7
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 38
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 30
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 6
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 6
+P4: Synch start 30
+P4: Entry Write id: 0 Percent: 7
+P4: Exit Write id: 0 Percent: 7 Clock: 14
+UPdate from Process 5 for id: 0 percent: 7
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 38
+UPdate from Process 1 for id: 0 percent: 1
+P4: Synch end 30
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 38
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 38
+P1: Synch start 30
+P1: Synch end 30
+P2: Entry Read id: 2
+P2: Exit Read id: 2 Percent: 0 Clock: 0
+P2: Synch start 21
+P2: Entry Write id: 0 Percent: 7
+P2: Exit Write id: 0 Percent: 7 Clock: 14
+UPdate from Process 5 for id: 0 percent: 7
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 38
+UPdate from Process 1 for id: 0 percent: 1
+P2: Synch end 21
+P5: Synch start 31
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 38
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 31
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 38
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 38
+P3: Entry Read id: 3
+P3: Exit Read id: 3 Percent: 0 Clock: 0
+P1: Synch start 31
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 5 for id: 0 percent: 1
+P1: Synch end 31
+P3: Synch start 21
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 38
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 5 for id: 0 percent: 1
+P3: Synch end 21
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 15
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 15
+P1: Synch start 31
+P1: Synch end 31
+P1: Synch start 32
+P1: Entry Write id: 0 Percent: 6
+P1: Exit Write id: 0 Percent: 6 Clock: 42
+UPdate from Process 1 for id: 0 percent: 6
+P1: Synch end 32
+P5: Synch start 33
+P5: Entry Write id: 0 Percent: 6
+P5: Exit Write id: 0 Percent: 6 Clock: 42
+UPdate from Process 1 for id: 0 percent: 6
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 16
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 33
+P3: Entry Read id: 3
+P3: Exit Read id: 3 Percent: 0 Clock: 0
+P2: Entry Read id: 6
+P2: Exit Read id: 6 Percent: 0 Clock: 0
+P3: Synch start 22
+P3: Entry Write id: 0 Percent: 6
+P3: Exit Write id: 0 Percent: 6 Clock: 42
+UPdate from Process 1 for id: 0 percent: 6
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 16
+UPdate from Process 5 for id: 0 percent: 1
+P3: Synch end 22
+P2: Synch start 22
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 5 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 6
+P2: Exit Write id: 0 Percent: 6 Clock: 42
+UPdate from Process 1 for id: 0 percent: 6
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 16
+UPdate from Process 5 for id: 0 percent: 1
+P2: Synch end 22
+P1: Synch start 34
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 16
+UPdate from Process 5 for id: 0 percent: 1
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 43
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 34
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 38
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 38
+P4: Synch start 34
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 6
+P4: Exit Write id: 0 Percent: 6 Clock: 42
+UPdate from Process 1 for id: 0 percent: 6
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 16
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 43
+UPdate from Process 1 for id: 0 percent: 1
+P4: Synch end 34
+P1: Synch start 35
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 44
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 35
+P5: Synch start 36
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 43
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 44
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 17
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 36
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 44
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 44
+P1: Synch start 36
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 17
+UPdate from Process 5 for id: 0 percent: 1
+P1: Synch end 36
+P3: Entry Read id: 6
+P3: Exit Read id: 6 Percent: 0 Clock: 0
+P3: Synch start 24
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 43
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 44
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 17
+UPdate from Process 5 for id: 0 percent: 1
+P3: Synch end 24
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 17
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 17
+P1: Synch start 36
+P1: Synch end 36
+P2: Entry Read id: 6
+P2: Exit Read id: 6 Percent: 0 Clock: 0
+P2: Synch start 24
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 43
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 44
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 17
+UPdate from Process 5 for id: 0 percent: 1
+P2: Synch end 24
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 17
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 17
+P1: Synch start 36
+P1: Synch end 36
+P5: Synch start 37
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 18
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 37
+P3: Entry Read id: 5
+P3: Exit Read id: 5 Percent: 0 Clock: 0
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 17
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 17
+P1: Synch start 37
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 18
+UPdate from Process 5 for id: 0 percent: 1
+P1: Synch end 37
+P3: Synch start 24
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 18
+UPdate from Process 5 for id: 0 percent: 1
+P3: Synch end 24
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 43
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 43
+P4: Synch start 37
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 44
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 17
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 18
+UPdate from Process 5 for id: 0 percent: 1
+P4: Synch end 37
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 18
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 18
+P1: Synch start 37
+P1: Synch end 37
+P5: Synch start 38
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 19
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 38
+P2: Entry Read id: 3
+P2: Exit Read id: 3 Percent: 0 Clock: 0
+P1: Synch start 39
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 19
+UPdate from Process 5 for id: 0 percent: 1
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 50
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 39
+P2: Synch start 24
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 18
+UPdate from Process 5 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 19
+UPdate from Process 5 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 50
+UPdate from Process 1 for id: 0 percent: 1
+P2: Synch end 24
+P3: Entry Read id: 6
+P3: Exit Read id: 6 Percent: 0 Clock: 0
+P3: Synch start 25
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 19
+UPdate from Process 5 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 50
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 25
+P1: Synch start 40
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 51
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 40
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 51
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 51
+P1: Synch start 40
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 20
+UPdate from Process 5 for id: 0 percent: 1
+P1: Synch end 40
+P5: Synch start 41
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 50
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 51
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 20
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 41
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 20
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 20
+P3: Entry Read id: 3
+P3: Exit Read id: 3 Percent: 0 Clock: 0
+P3: Synch start 26
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 51
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 20
+UPdate from Process 5 for id: 0 percent: 1
+P3: Synch end 26
+P1: Synch start 41
+P1: Synch end 41
+P2: Entry Read id: 1
+P2: Exit Read id: 1 Percent: 0 Clock: 0
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 18
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 18
+P4: Synch start 41
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 19
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 50
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 51
+UPdate from Process 1 for id: 0 percent: 1
+P2: Synch start 26
+P4: Entry Write id: 0 Percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 51
+UPdate from Process 1 for id: 0 percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 20
+UPdate from Process 5 for id: 0 percent: 1
+P4: Synch end 41
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 20
+UPdate from Process 5 for id: 0 percent: 1
+P2: Synch end 26
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 20
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 20
+P1: Synch start 41
+P1: Synch end 41
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 20
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 20
+P5: Synch start 41
+P5: Synch end 41
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 20
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 20
+P1: Synch start 41
+P1: Synch end 41
+P3: Entry Read id: 2
+P3: Exit Read id: 2 Percent: 0 Clock: 0
+P3: Synch start 26
+P3: Synch end 26
+P1: Synch start 42
+P1: Entry Write id: 0 Percent: 6
+P1: Exit Write id: 0 Percent: 6 Clock: 56
+UPdate from Process 1 for id: 0 percent: 6
+P1: Synch end 42
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 6 Clock: 56
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 6 Clock: 56
+P5: Entry Read id: 0
+P2: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 20
+P5: Entry Read id: 0
+P2: Exit Read id: 0 Percent: 1 Clock: 20
+P5: Exit Read id: 0 Percent: 1 Clock: 20
+P5: Synch start 42
+P5: Entry Write id: 0 Percent: 6
+P1: Synch start 42
+P1: Synch end 42
+P5: Exit Write id: 0 Percent: 6 Clock: 56
+UPdate from Process 1 for id: 0 percent: 6
+P5: Synch end 42
+P2: Synch start 27
+P2: Entry Write id: 0 Percent: 6
+P2: Exit Write id: 0 Percent: 6 Clock: 56
+UPdate from Process 1 for id: 0 percent: 6
+P2: Synch end 27
+P3: Entry Read id: 0
+P3: Exit Read id: 0 Percent: 1 Clock: 20
+P1: Synch start 43
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 58
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 43
+P3: Synch start 28
+P3: Entry Write id: 0 Percent: 6
+P3: Exit Write id: 0 Percent: 6 Clock: 56
+UPdate from Process 1 for id: 0 percent: 6
+P4: Entry Read id: 0
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 58
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 28
+P4: Exit Read id: 0 Percent: 1 Clock: 20
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 20
+P4: Synch start 43
+P4: Entry Write id: 0 Percent: 6
+P4: Exit Write id: 0 Percent: 6 Clock: 56
+UPdate from Process 1 for id: 0 percent: 6
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 58
+UPdate from Process 1 for id: 0 percent: 1
+P4: Synch end 43
+P1: Synch start 44
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 59
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 44
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 6 Clock: 56
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 6 Clock: 56
+P5: Synch start 44
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 58
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 59
+UPdate from Process 1 for id: 0 percent: 1
+P5: Synch end 44
+P1: Synch start 45
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 60
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 45
+P2: Entry Read id: 1
+P2: Exit Read id: 1 Percent: 0 Clock: 0
+P3: Entry Read id: 5
+P3: Exit Read id: 5 Percent: 0 Clock: 0
+P2: Synch start 30
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 58
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 59
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 60
+UPdate from Process 1 for id: 0 percent: 1
+P2: Synch end 30
+P3: Synch start 30
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 59
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 60
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 30
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 60
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 60
+P1: Synch start 45
+P1: Synch end 45
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 60
+P1: Entry Read id: 0
+P5: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 60
+P5: Exit Read id: 0 Percent: 1 Clock: 59
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 59
+P5: Synch start 45
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 60
+UPdate from Process 1 for id: 0 percent: 1
+P5: Synch end 45
+P1: Synch start 45
+P1: Synch end 45
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 60
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 60
+P1: Synch start 45
+P1: Synch end 45
+P3: Entry Read id: 6
+P3: Exit Read id: 6 Percent: 0 Clock: 0
+P3: Synch start 30
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 4 for id: 0 percent: 1
+P3: Synch end 30
+P4: Synch start 46
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 59
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 60
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 4 for id: 0 percent: 1
+P4: Synch end 46
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 60
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 60
+P1: Synch start 46
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 4 for id: 0 percent: 1
+P1: Synch end 46
+P2: Entry Read id: 1
+P2: Exit Read id: 1 Percent: 0 Clock: 0
+P5: Entry Read id: 0
+P2: Synch start 31
+P5: Exit Read id: 0 Percent: 1 Clock: 60
+P5: Entry Read id: 0
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 4 for id: 0 percent: 1
+P2: Synch end 31
+P5: Exit Read id: 0 Percent: 1 Clock: 60
+P5: Synch start 46
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 12
+UPdate from Process 4 for id: 0 percent: 1
+P5: Synch end 46
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 12
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 12
+P1: Synch start 46
+P1: Synch end 46
+P3: Entry Read id: 5
+P3: Exit Read id: 5 Percent: 0 Clock: 0
+P3: Synch start 31
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 66
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 31
+P1: Synch start 47
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 66
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 47
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 12
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 12
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 66
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 66
+P5: Synch start 47
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 66
+UPdate from Process 1 for id: 0 percent: 1
+P5: Synch end 47
+P1: Synch start 47
+P1: Synch end 47
+P2: Entry Read id: 6
+P2: Exit Read id: 6 Percent: 0 Clock: 0
+P2: Synch start 32
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 66
+UPdate from Process 1 for id: 0 percent: 1
+P2: Synch end 32
+P1: Synch start 48
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 68
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 48
+P4: Synch start 49
+P3: Entry Read id: 5
+P4: Entry Write id: 0 Percent: 1
+P3: Exit Read id: 5 Percent: 0 Clock: 0
+P4: Exit Write id: 0 Percent: 1 Clock: 66
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 68
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 13
+UPdate from Process 4 for id: 0 percent: 1
+P4: Synch end 49
+P3: Synch start 34
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 68
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 13
+UPdate from Process 4 for id: 0 percent: 1
+P3: Synch end 34
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 68
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 68
+P1: Synch start 49
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 13
+UPdate from Process 4 for id: 0 percent: 1
+P1: Synch end 49
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 66
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 66
+P5: Synch start 49
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 68
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 13
+UPdate from Process 4 for id: 0 percent: 1
+P5: Synch end 49
+P1: Synch start 50
+P1: Entry Write id: 0 Percent: 6
+P1: Exit Write id: 0 Percent: 6 Clock: 70
+UPdate from Process 1 for id: 0 percent: 6
+P1: Synch end 50
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 6 Clock: 70
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 6 Clock: 70
+P1: Synch start 50
+P1: Synch end 50
+P3: Entry Read id: 6
+P3: Exit Read id: 6 Percent: 0 Clock: 0
+P3: Synch start 35
+P2: Entry Read id: 3
+P3: Entry Write id: 0 Percent: 6
+P2: Exit Read id: 3 Percent: 0 Clock: 0
+P3: Exit Write id: 0 Percent: 6 Clock: 70
+UPdate from Process 1 for id: 0 percent: 6
+P3: Synch end 35
+P2: Synch start 35
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 68
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 13
+UPdate from Process 4 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 6
+P2: Exit Write id: 0 Percent: 6 Clock: 70
+UPdate from Process 1 for id: 0 percent: 6
+P2: Synch end 35
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 13
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 13
+P5: Synch start 50
+P5: Entry Write id: 0 Percent: 6
+P5: Exit Write id: 0 Percent: 6 Clock: 70
+UPdate from Process 1 for id: 0 percent: 6
+P5: Synch end 50
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 6 Clock: 70
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 6 Clock: 70
+P1: Synch start 50
+P1: Synch end 50
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 6 Clock: 70
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 6 Clock: 70
+P1: Synch start 50
+P1: Synch end 50
+P4: Synch start 51
+P4: Entry Write id: 0 Percent: 6
+P4: Exit Write id: 0 Percent: 6 Clock: 70
+UPdate from Process 1 for id: 0 percent: 6
+P4: Entry Write id: 0 Percent: -1
+P4: Exit Write id: 0 Percent: -1 Clock: 14
+UPdate from Process 4 for id: 0 percent: -1
+P4: Synch end 51
+P3: Entry Read id: 5
+P3: Exit Read id: 5 Percent: 0 Clock: 0
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 6 Clock: 70
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 6 Clock: 70
+P3: Synch start 36
+P3: Entry Write id: 0 Percent: -1
+P3: Exit Write id: 0 Percent: -1 Clock: 14
+UPdate from Process 4 for id: 0 percent: -1
+P3: Synch end 36
+P1: Synch start 51
+P1: Entry Write id: 0 Percent: -1
+P1: Exit Write id: 0 Percent: -1 Clock: 14
+UPdate from Process 4 for id: 0 percent: -1
+P1: Synch end 51
+P5: Synch start 52
+P5: Entry Write id: 0 Percent: -1
+P5: Exit Write id: 0 Percent: -1 Clock: 14
+UPdate from Process 4 for id: 0 percent: -1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 29
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 52
+P2: Entry Read id: 6
+P2: Exit Read id: 6 Percent: 0 Clock: 0
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: -1 Clock: 14
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: -1 Clock: 14
+P1: Synch start 52
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 29
+UPdate from Process 5 for id: 0 percent: 1
+P1: Synch end 52
+P2: Synch start 36
+P2: Entry Write id: 0 Percent: -1
+P2: Exit Write id: 0 Percent: -1 Clock: 14
+UPdate from Process 4 for id: 0 percent: -1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 29
+UPdate from Process 5 for id: 0 percent: 1
+P2: Synch end 36
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 29
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 29
+P1: Synch start 52
+P1: Synch end 52
+P3: Entry Read id: 5
+P3: Exit Read id: 5 Percent: 0 Clock: 0
+P3: Synch start 36
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 29
+UPdate from Process 5 for id: 0 percent: 1
+P3: Synch end 36
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 29
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 29
+P5: Synch start 52
+P5: Entry Write id: 0 Percent: 6
+P5: Exit Write id: 0 Percent: 6 Clock: 77
+UPdate from Process 1 for id: 0 percent: 6
+P5: Synch end 52
+P1: Synch start 53
+P1: Entry Write id: 0 Percent: 6
+P1: Exit Write id: 0 Percent: 6 Clock: 77
+UPdate from Process 1 for id: 0 percent: 6
+P1: Synch end 53
+P1: Synch start 54
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 78
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 54
+P4: Synch start 55
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 29
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 6
+P4: Exit Write id: 0 Percent: 6 Clock: 77
+UPdate from Process 1 for id: 0 percent: 6
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 78
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 4 for id: 0 percent: 1
+P4: Synch end 55
+P2: Entry Read id: 1
+P2: Exit Read id: 1 Percent: 0 Clock: 0
+P2: Synch start 39
+P2: Entry Write id: 0 Percent: 6
+P2: Exit Write id: 0 Percent: 6 Clock: 77
+UPdate from Process 1 for id: 0 percent: 6
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 78
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 4 for id: 0 percent: 1
+P2: Synch end 39
+P3: Entry Read id: 6
+P3: Exit Read id: 6 Percent: 0 Clock: 0
+P3: Synch start 39
+P3: Entry Write id: 0 Percent: 6
+P3: Exit Write id: 0 Percent: 6 Clock: 77
+UPdate from Process 1 for id: 0 percent: 6
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 78
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 4 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 79
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 39
+P1: Synch start 56
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 4 for id: 0 percent: 1
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 79
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 56
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 6 Clock: 77
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 6 Clock: 77
+P5: Synch start 56
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 78
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 15
+UPdate from Process 4 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 79
+UPdate from Process 1 for id: 0 percent: 1
+P5: Synch end 56
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 79
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 79
+P1: Synch start 56
+P1: Synch end 56
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 79
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 79
+P1: Synch start 56
+P1: Synch end 56
+P3: Entry Read id: 4
+P3: Exit Read id: 4 Percent: 0 Clock: 0
+P3: Synch start 40
+P3: Synch end 40
+P2: Entry Read id: 1
+P2: Exit Read id: 1 Percent: 0 Clock: 0
+P5: Synch start 57
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 32
+UPdate from Process 5 for id: 0 percent: 1
+P1: Synch start 58
+P5: Entry Write id: 0 Percent: 1
+P1: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 82
+P1: Exit Write id: 0 Percent: 1 Clock: 32
+UPdate from Process 1 for id: 0 percent: 1
+UPdate from Process 5 for id: 0 percent: 1
+P5: Synch end 57
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 82
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 58
+P2: Synch start 41
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 79
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 32
+UPdate from Process 5 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 82
+UPdate from Process 1 for id: 0 percent: 1
+P2: Synch end 41
+P1: Synch start 59
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 83
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 59
+P4: Synch start 60
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 79
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 32
+UPdate from Process 5 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 82
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 83
+UPdate from Process 1 for id: 0 percent: 1
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 16
+UPdate from Process 4 for id: 0 percent: 1
+P4: Synch end 60
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 83
+P1: Entry Read id: 0
+P1: Exit Read id: 0 Percent: 1 Clock: 83
+P3: Entry Read id: 4
+P3: Exit Read id: 4 Percent: 0 Clock: 0
+P3: Synch start 43
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 32
+UPdate from Process 5 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 82
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 83
+UPdate from Process 1 for id: 0 percent: 1
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 16
+UPdate from Process 4 for id: 0 percent: 1
+P3: Synch end 43
+P1: Synch start 60
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 16
+UPdate from Process 4 for id: 0 percent: 1
+P1: Synch end 60
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 82
+P5: Entry Read id: 0
+P5: Exit Read id: 0 Percent: 1 Clock: 82
+P5: Synch start 60
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 83
+UPdate from Process 1 for id: 0 percent: 1
+P5: Entry Write id: 0 Percent: 1
+P5: Exit Write id: 0 Percent: 1 Clock: 16
+UPdate from Process 4 for id: 0 percent: 1
+P5: Synch end 60
+P1: Synch start 61
+P1: Entry Write id: 0 Percent: 1
+P1: Exit Write id: 0 Percent: 1 Clock: 85
+UPdate from Process 1 for id: 0 percent: 1
+P1: Synch end 61
+P2: Entry Read id: 0
+P2: Exit Read id: 0 Percent: 1 Clock: 82
+P2: Synch start 44
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 83
+UPdate from Process 1 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 16
+UPdate from Process 4 for id: 0 percent: 1
+P2: Entry Write id: 0 Percent: 1
+P2: Exit Write id: 0 Percent: 1 Clock: 85
+UPdate from Process 1 for id: 0 percent: 1
+P2: Synch end 44
+P3: Entry Read id: 4
+P3: Exit Read id: 4 Percent: 0 Clock: 0
+P3: Synch start 44
+P3: Entry Write id: 0 Percent: 1
+P3: Exit Write id: 0 Percent: 1 Clock: 85
+UPdate from Process 1 for id: 0 percent: 1
+P3: Synch end 44
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 16
+P4: Entry Read id: 0
+P4: Exit Read id: 0 Percent: 1 Clock: 16
+P4: Synch start 61
+P4: Entry Write id: 0 Percent: 1
+P4: Exit Write id: 0 Percent: 1 Clock: 85
+UPdate from Process 1 for id: 0 percent: 1
+P4: Synch end 61
